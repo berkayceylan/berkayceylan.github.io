@@ -17,7 +17,7 @@ const RESOURCES = {
 "version.json": "03acefc4795e8573b194262cd3a4419f",
 "assets/assets/images/my_image.jpeg": "a620b1dbdcef9ea97425843868a32876",
 "assets/assets/images/time_bar_flutter/thumbnail.png": "12a6004ed56a674230d45be1cc58b183",
-"assets/assets/info.json": "36f1ef845acf1fc8358c7a171ca4b59e",
+"assets/assets/info.json": "6ff72809fd1c6fa72237e118c00135ff",
 "assets/google_fonts/EduVICWANTBeginner-Bold.ttf": "ee096ac4e1e5ae76a295237281d2cc20",
 "assets/google_fonts/EduVICWANTBeginner-Medium.ttf": "73de3d71ea9dd9bf139caf1451d0a981",
 "assets/google_fonts/EduVICWANTBeginner-Regular.ttf": "77e24592ca53d0ddf774978a472bf5af",
@@ -27,9 +27,7 @@ const RESOURCES = {
 "assets/packages/font_awesome_flutter/lib/fonts/fa-regular-400.ttf": "613e4cc1af0eb5148b8ce409ad35446d",
 "assets/packages/font_awesome_flutter/lib/fonts/fa-solid-900.ttf": "dd3c4233029270506ecc994d67785a37",
 "assets/fonts/MaterialIcons-Regular.otf": "e7069dfd19b331be16bed984668fe080",
-"assets/shaders/ink_sparkle.frag": "57f2f020e63be0dd85efafc7b7b25d80",
 "assets/AssetManifest.json": "5704940c8b6e999997b9f2053272c7c5",
-"assets/AssetManifest.bin": "66c6454553e700389fe7472fd6c729a1",
 "assets/FontManifest.json": "5a32d4310a6f5d9a6b651e75ba0d7372",
 "assets/NOTICES": "ce4a5f609a17113c606b926468e5ca06",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
@@ -37,8 +35,8 @@ const RESOURCES = {
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "34cb1f4ad22ab7279417625f436e9319",
-"/": "34cb1f4ad22ab7279417625f436e9319",
+"index.html": "2288ad5b082c245bf9f0fd751313370f",
+"/": "2288ad5b082c245bf9f0fd751313370f",
 "manifest.json": "c9b5d2904c7b943a88028f7751c642c1"
 };
 
