@@ -32987,7 +32987,7 @@ V(a){var s=null,r=A.LM(20),q=A.a([new A.eU(1,B.cV,A.aB(51,0,0,0),B.qB,5)],t.xq),
 return A.a9H(s,A.MH(A.Ma(A.Zb(p===0?"":B.f.j(p),B.Gv),s,s),s,new A.fx(this.d,s,s,r,q,s,B.bo),B.xo,s),!1,s,s,s,s,s,this.e,s,s,s)}}
 A.AV.prototype={
 V(a){var s=null
-return new A.qW(new A.rN(s),"Flutter Demo",A.ab8(s,B.fh,s),s)}}
+return new A.qW(new A.rN(s),"15 Puzzle",A.ab8(s,B.fh,s),s)}}
 A.rN.prototype={
 ar(){return new A.vt(A.a([],t.t),A.a([],t.sj),B.l)}}
 A.vt.prototype={
