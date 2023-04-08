@@ -362,6 +362,35 @@
       "detail": "As an educator, I strongly believe in the importance of promoting environmental awareness among my students. To achieve this, I created an infographic on biodiversity using Photoshop. The infographic is designed to highlight the various types of species found on our planet and their significance in maintaining a healthy ecosystem. I used a combination of text, images, and icons to provide a comprehensive overview of the topic. The design is visually appealing and easy to understand, making it an effective tool for engaging students. The biodiversity infographic has been used in my classroom to help students understand the importance of preserving and protecting our natural environment. Overall, this project demonstrates my passion for environmental education and my proficiency in graphic design tools to create impactful visual aids.\n\n\n ** I didn't create it from scratch I found an image and modified it **"
     },
     {
+      "name": "15_puzzle_flutter",
+      "title": "15 Puzzle Game",
+      "is_education": false,
+      "flag": "Flutter",
+      "category": "Flutter",
+      "tags": [
+        "Puzzle game",
+        "UI/UX Design",
+        "Mobile App",
+        "Website",
+        "Classic Game"
+      ],
+      "techs": [
+        "Flutter",
+        "Dart"
+      ],
+      "thumbnail": "https://raw.githubusercontent.com/berkayceylan/15_puzzle_flutter/master/ss/web_ss_2.png",
+      "images": [
+        "https://raw.githubusercontent.com/berkayceylan/15_puzzle_flutter/master/ss/phone_ss_1.jpg",
+        "https://raw.githubusercontent.com/berkayceylan/15_puzzle_flutter/master/ss/phone_ss_2.jpg",
+        "https://raw.githubusercontent.com/berkayceylan/15_puzzle_flutter/master/ss/phone_ss_3.jpg",
+        "https://raw.githubusercontent.com/berkayceylan/15_puzzle_flutter/master/ss/phone_ss_4.jpg"
+      ],
+      "project_url": "https://github.com/berkayceylan/15_puzzle_flutter",
+      "project_url_name": "Project Page",
+      "short_detail": "Puzzle Game",
+      "detail": "I developed a mobile application called Fifteen Puzzle Game using Flutter and Dart. This app is a classic sliding puzzle game in which the player must arrange the numbered tiles on a 4x4 grid in numerical order. The game features a customizable timer and move counter to challenge the player's speed and problem-solving skills. This project demonstrates my proficiency in mobile app development using Flutter, as well as my ability to create engaging and user-friendly interfaces."
+    },
+    {
       "name": "music_player_electronjs",
       "title": "Music Player ElectronJS",
       "is_education": false,

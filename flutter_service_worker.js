@@ -17,7 +17,7 @@ const RESOURCES = {
 "version.json": "03acefc4795e8573b194262cd3a4419f",
 "assets/assets/images/my_image.jpeg": "a620b1dbdcef9ea97425843868a32876",
 "assets/assets/images/time_bar_flutter/thumbnail.png": "12a6004ed56a674230d45be1cc58b183",
-"assets/assets/info.json": "883587a67d4cb23b52cd410f6feb76f6",
+"assets/assets/info.json": "63326567569d5d88a847f9623ac3a389",
 "assets/google_fonts/EduVICWANTBeginner-Bold.ttf": "ee096ac4e1e5ae76a295237281d2cc20",
 "assets/google_fonts/EduVICWANTBeginner-Medium.ttf": "73de3d71ea9dd9bf139caf1451d0a981",
 "assets/google_fonts/EduVICWANTBeginner-Regular.ttf": "77e24592ca53d0ddf774978a472bf5af",
@@ -35,8 +35,8 @@ const RESOURCES = {
 "icons/Icon-512.png": "afa366fc6b1572cfb06d8b69872cd0af",
 "icons/Icon-maskable-192.png": "0064b5c38c38d6563ef42881c89cd3f0",
 "icons/Icon-maskable-512.png": "31b817f3fb24b282f6a59a8ae404bf06",
-"index.html": "8e6e07add4b2dadf1965aa1d5c1ae46c",
-"/": "8e6e07add4b2dadf1965aa1d5c1ae46c",
+"index.html": "235d6b9e43b4f34bbb74efb0b60ba514",
+"/": "235d6b9e43b4f34bbb74efb0b60ba514",
 "manifest.json": "c9b5d2904c7b943a88028f7751c642c1"
 };
 
