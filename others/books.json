@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Academic Book",
+    "author": "Bilinmiyor",
+    "category": "Academy",
+    "book_file": "http://berkayceylan.github.io/others/kitap1"
+  },
+  {
+    "name": "Mastering Flutter",
+    "author": "Berkay Ceylan",
+    "category": "Programming",
+    "book_file": "http://berkayceylan.github.io/others/kitap2"
+  }
+]
