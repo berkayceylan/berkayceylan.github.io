@@ -10,5 +10,11 @@
     "author": "Berkay Ceylan",
     "category": "Programming",
     "book_file": "http://berkayceylan.github.io/others/kitap2"
+  },
+  {
+    "name": "Başka Bir Kitap",
+    "author": "Başka Bir Yazar",
+    "category": "Programming",
+    "book_file": "http://berkayceylan.github.io/others/diger_kitap"
   }
 ]
