@@ -16,5 +16,17 @@
     "author": "Başka Bir Yazar",
     "category": "Programming",
     "book_file": "https://berkayceylan.github.io/others/diger_kitap"
+  },
+  {
+    "name": "Yalnızlık",
+    "author": "Ahmet Cengiz",
+    "category": "Roman",
+    "book_file": "https://berkayceylan.github.io/others/ornekkitap4"
+  },
+  {
+    "name": "Öteki",
+    "author": "Murat Yılmaz",
+    "category": "Öykü",
+    "book_file": "https://berkayceylan.github.io/others/ornekkitap5"
   }
 ]
